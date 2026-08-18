@@ -13,7 +13,7 @@
 
 ## 🌟 Day 1 Overview
 
-Today was my very first step into programming! I focused on understanding basic syntax, user input handling, and writing conditional statements (`if-elif-else`) to solve practical problems.
+Today was my very first step into programming in python! I focused on understanding basic syntax, user input handling, and writing conditional statements (`if-elif-else`) to solve practical problems.
 
 ### 📂 Files & Projects
 
